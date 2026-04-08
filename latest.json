@@ -1,11 +1,11 @@
-{
-    "version":  "1.0.0",
-    "notes":  "Initial release of Horizon Enerlytics",
-    "pub_date":  "2026-04-07T13:39:46Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.0.0/Horizon.Enerlytics_1.0.0_x64_en-US.msi",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUa3hiSHVIS09SMVJxTjBjR1lDazA4UWdCVk8zaW4rc3pMOU5YRjZMUldlK3I4L1lsbjRmZ2ZvT1Eza1l2a2xBTG0zbGRFcUZDVTlPRjdXQTNUVXlhVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTY5MTE2CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMC4wX3g2NF9lbi1VUy5tc2kKaHlwMVpyZ3QwY2dJbUpFTEliYVJYTy9lRVBHZ0ljc0ptNmV0eU44OFMxaS9ad1dvOU85R3loRy9KOEw2Z1YyNzFFS3A0eUhiSFlBY3A1dzBtV21IQVE9PQo="
-                                         }
-                  }
+﻿{
+  "version": "1.0.1",
+  "notes": "Header and version text updates.",
+  "pub_date": "2026-04-08T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUa3dHeTZHYWExQmhONGlHSUp4QWU4MmlGNXcxMkp5Nzd6ckI0TW8rVmlUT0dIenZCTzZac3A5NmJubWlRRlRQOUNTS1NZWWdVcHIzYjVnQTFRRUhLWnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjQxNjU5CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMC4xX3g2NF9lbi1VUy5tc2kKOVI5eG5wRk9HMW5Mb1RVNnI5S29lWEpUM2FGUkxVUlpSeWNaQ1BzcHFDZnk3dmp1ejV0RzIySkRERTM4V2JQcEhXVUN5ejNZRld0MjVwRm1iVlRwRHc9PQo=",
+      "url": "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.0.1/Horizon.Enerlytics_1.0.1_x64_en-US.msi"
+    }
+  }
 }
