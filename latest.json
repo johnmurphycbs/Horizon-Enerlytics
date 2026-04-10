@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  "1.0.5",
     "notes":  "Calendarization hotfix: period cost + total balance due now populate correctly in Calendarized sheets.",
     "pub_date":  "2026-04-10T14:01:15Z",
