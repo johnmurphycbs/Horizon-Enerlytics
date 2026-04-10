@@ -1,11 +1,1 @@
-{
-    "version":  "1.0.5",
-    "notes":  "Calendarization hotfix: period cost + total balance due now populate correctly in Calendarized sheets.",
-    "pub_date":  "2026-04-10T14:01:15Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUa3lSeDd4KzVFbXBSWHFNZm5pNmZ1Qkk2M1l2YmFXeldSTDF1V3NRZ003K2R0QkJKZE8xVzhVNmxKQzlBeU1VQm5RRmRNaTcvazlZblpSSjE4YnRrOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODI5NjY2CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMC41X3g2NF9lbi1VUy5tc2kKSEVhNDI0UWxQZEczbCtlYU1leU9VOWlDQ3dIN1lWQ0p0QngzMG9jQzFXN01IbGRmRWV4VllIc29WOGRxYWtiT0JGY2xiY2p5Y2xPamJaS1IvalB2Qnc9PQo=",
-                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.0.5/Horizon.Enerlytics_1.0.5_x64_en-US.msi"
-                                         }
-                  }
-}
+{`n    "version":  "1.0.5",`n    "notes":  "Calendarization hotfix: period cost + total balance due now populate correctly in Calendarized sheets.",`n    "pub_date":  "2026-04-10T14:01:15Z",`n    "platforms":  {`n                      "windows-x86_64":  {`n                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUa3lSeDd4KzVFbXBSWHFNZm5pNmZ1Qkk2M1l2YmFXeldSTDF1V3NRZ003K2R0QkJKZE8xVzhVNmxKQzlBeU1VQm5RRmRNaTcvazlZblpSSjE4YnRrOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODI5NjY2CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMC41X3g2NF9lbi1VUy5tc2kKSEVhNDI0UWxQZEczbCtlYU1leU9VOWlDQ3dIN1lWQ0p0QngzMG9jQzFXN01IbGRmRWV4VllIc29WOGRxYWtiT0JGY2xiY2p5Y2xPamJaS1IvalB2Qnc9PQo=",`n                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.0.5/Horizon.Enerlytics_1.0.5_x64_en-US.msi"`n                                         }`n                  }`n}
