@@ -1,11 +1,11 @@
-{
-    "version":  "1.0.6",
-    "notes":  "Per-user installer update: no admin prompt required for installs/updates going forward.",
-    "pub_date":  "2026-04-14T09:51:38Z",
+﻿{
+    "version":  "1.0.7",
+    "notes":  "Test release: updater validation for per-user NSIS install flow.",
+    "pub_date":  "2026-04-14T10:15:50Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUay92MmQ1K211Zm4vQ3cxeDU3TUJBanhJRHZpZXViQWNWQUh0ejcrQmlGVFNzR1N6SW0rbnN6czRzeHdWeHBsN3ZOSGpnaGtHcUNFQWllOVNpM0Rmemc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTYwMTg0CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMC42X3g2NC1zZXR1cC5leGUKSU52U3lxOHF6cmc4YnN2MzJUSVA1YnlWbDRMTUtteWsxcW1OZVZBZE02R2d2ZWErUGg2aVpkODU2RFp0TlZxVkRkS0pDQXhJNFZYSkJ6QUp0ZEpMQ0E9PQo=",
-                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.0.6/Horizon%20Enerlytics_1.0.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUazhnSWtSN2JCM2dBYllBb0JFcVZIS2Z4RGJWajhNWHlmUDF6TkY5S2c1VjNNMG5RVUI0VXFqZE1NRFpjd1owZnBjMXBUdCtxd21MUUJNN0gzb3lRRFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTYxNjA1CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMC43X3g2NC1zZXR1cC5leGUKUzZCSzAvcWpXRkpqYmlTOGFrcjB5WENvczlDVVBUUEtOTXp5VDVqc21RbDNwVGdZdTI5TzRmMlpwVUZ2d1l4M1RoK1RRREg1dkxLeTEvZTZ5K002Qnc9PQo=",
+                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.0.7/Horizon%20Enerlytics_1.0.7_x64-setup.exe"
                                          }
                   }
 }
