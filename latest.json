@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.9",
-    "notes":  "Updater test: raw endpoint + per-user NSIS flow.",
-    "pub_date":  "2026-04-14T10:46:41Z",
+    "version":  "1.1.0",
+    "notes":  "UI footer reset to v3.1 and per-user NSIS updater validation release.",
+    "pub_date":  "2026-04-14T10:56:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUa3dtb3QrbkVWV1ErU05IUFc5RGE5a2Q2ZGcwVFB1YlhLMzQ2VUgzYUdwQXZRakpMTGpQVnQ4VUZMWUdmdUlUVHVLRXV2bk9pTjRWTUQ3UTEvMkFCU1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTYzNTg4CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMC45X3g2NC1zZXR1cC5leGUKM1J6R2ZlUHZHcDZuYWdxOUhXUGJVaVVPUG56K3NSVndqVFluRktnU1dUUWdEYjQ5Z3B3UlB2dmw5ZFNQdUtkdmtHRFhNTzFrd2tkM0R4VCs4NWhXRFE9PQo=",
-                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.0.9/Horizon.Enerlytics_1.0.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUazB2WC9SeFNSQ1hHaURmazE1MFY3M2RYN29GUGJXUENPWlFKSWlDYlNpRVFHOENMMDJvL00ycStnY3ZRWVgyTm94Yzc0ak5oVlBFdE5yNXE1YnNWQ1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTY0MTY0CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMS4wX3g2NC1zZXR1cC5leGUKMlFhYW5nemxEaTQyTGozR0VBZk92ZlZGVFYrREpaV0FzdjNKM2ZibUlJZy8rMUl6TTgvZ3lqWFlIZUtaZW9Jem1iOFFXTGYrTU1ONHlQTy9ULzFnREE9PQo=",
+                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.1.0/Horizon.Enerlytics_1.1.0_x64-setup.exe"
                                          }
                   }
 }
