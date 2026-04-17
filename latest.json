@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.1",
-    "notes":  "Updater validation build (dashboard footer v3.2).",
-    "pub_date":  "2026-04-14T11:07:26Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUazNqNkRvOHlLYk9Kd1RoUThhUkZZSVQyc1hiY3E4SXdwR21PQ2NCb1dlMEZkN3RabVY5N2QrVXpaTzI2YkkvOVBpRkRDSmZIckZpZ2RRd1ZJbHBvVWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTY0ODM0CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMS4xX3g2NC1zZXR1cC5leGUKMzZnZFBqbU5sdlFIK0VaMFhpbFE0cjNJZDBzUjdGWHFCYjlSZXNqb0k0bTV3dG83SzltdjU2Q1VtNEdMbVozK3ZueTBkcWU4eDJZempWblNidEVhQkE9PQo=",
-                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.1.1/Horizon.Enerlytics_1.1.1_x64-setup.exe"
-                                         }
-                  }
+  "version": "1.1.2",
+  "notes": "Release 1.1.2",
+  "pub_date": "2026-04-17T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "REPLACE_WITH_1.1.2_SIGNATURE",
+      "url": "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.1.2/Horizon.Enerlytics_1.1.2_x64-setup.exe"
+    }
+  }
 }
