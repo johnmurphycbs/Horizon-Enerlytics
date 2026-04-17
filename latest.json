@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Release 1.1.2",
-  "pub_date": "2026-04-17T00:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "REPLACE_WITH_1.1.2_SIGNATURE",
-      "url": "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.1.2/Horizon.Enerlytics_1.1.2_x64-setup.exe"
-    }
-  }
+    "version":  "1.1.2",
+    "notes":  "Release 1.1.2",
+    "pub_date":  "2026-04-17T16:39:16Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZitIV3FKcTlUazJnRDBnQXl5enJmbVdhcjVCL0xkNVlCS1RFNGFPdCtVUS8rTVU2Z2NxaFhodDVqWllCZUZZNnZqVFJHdFU1MU1NZ2tHLzVsTXNjdDRNRWV0OFdtdWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDQwODk4CWZpbGU6SG9yaXpvbiBFbmVybHl0aWNzXzEuMS4xX3g2NC1zZXR1cC5leGUKQzFtaTIwbkZ0Q1QvRzdYQ2ZIQ2dNRnByekxTaGpyaTZ6aGFYR21WeEFKZVZINFZhNWd1cElxQkFxaWFSL0NreTZaYnlLWkg0K29MSmZmMHJpdVZrQVE9PQo=",
+                                             "url":  "https://github.com/johnmurphycbs/Horizon-Enerlytics/releases/download/v1.1.2/Horizon.Enerlytics_1.1.2_x64-setup.exe"
+                                         }
+                  }
 }
